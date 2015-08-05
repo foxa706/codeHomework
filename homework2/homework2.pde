@@ -5,7 +5,7 @@ void setup() {
   size(700, 400);
   smooth();
 }
-
+  
 void draw() {
   background(200);
   startAngle += 0.05;
